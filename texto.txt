@@ -1,1 +1,0 @@
-example of mod-fs-writefile
